@@ -2,7 +2,7 @@
 
 Static HTML so TCR/Twilio can read STOP/HELP and the mobile-number non-sharing statement without executing JavaScript.
 
-Live [www.carwashmgmt.com](https://www.carwashmgmt.com) is still a Base44 SPA, so `/privacy-policy` and `/terms-and-conditions` there are not crawler-visible. Twilio 30908/30882 also reject github.io as not on the brand domain.
+Campaign website for 10DLC is **https://legal.carwashmgmt.com/** only (valid HTTPS). Do not link www in crawlable HTML while GitHub Pages www cert is `new` / wrong principal.
 
 Intended live URLs after DNS:
 
